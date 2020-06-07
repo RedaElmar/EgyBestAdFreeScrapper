@@ -1,4 +1,4 @@
-# EgyBestAddFreeContentScrapper
+# EgyBestAddFreeScrapper
 Scrapping script .... Done!
 ## Next Features ...
 - Web app (Django/Flask)
